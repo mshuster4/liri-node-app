@@ -166,6 +166,8 @@ function findMovie(movie) {
 
 function findText() {
 
+  var dataArr = [];
+
   var fs = require("fs");
 
   fs.readFile("random.txt", "utf8", function(error, data) {
@@ -176,7 +178,14 @@ function findText() {
 
     var dataArr = data.split(",");
 
-  });
+    console.log(dataArr);
+
+    findSong(dataArr[0]);
+    findBand(dataArr[1]);
+    findMovie(dataArr[2]);
+
+  })
+
 
 }
 
