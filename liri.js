@@ -3,24 +3,19 @@ require("dotenv").config();
 
 var keys = require("./keys.js");
 
-var axios = require("axios");
-
-var moment = require("moment");
-
-var Spotify = require("node-spotify-api");
-
-var spotify = new Spotify(keys.spotify);
-
 var command = process.argv[2]; 
 
 if (command === "concert-this") {
-  findBand();
+  var band = process.argv.slice(3).join(" ")
+  findBand(band);
 }
 else if (command === "spotify-this-song") {
-  findSong();
+  var song = process.argv.slice(3).join(" ")
+  findSong(song);
 }
 else if (command === "movie-this") {
-  findMovie();
+  var movie = ""
+  findMovie(movie);
 }
 else if (command === "do-what-it-says") {
   findText();
@@ -29,10 +24,12 @@ else {
   console.log("Invalid command.  Try again")
 }
 
-function findBand() {
+function findBand(band) {
 
-  var bandName = process.argv.slice(3).join(" ");
-  var queryURL = "https://rest.bandsintown.com/artists/" + bandName + "/events?app_id=codingbootcamp"
+  var axios = require("axios");
+  var moment = require("moment");
+
+  var queryURL = "https://rest.bandsintown.com/artists/" + band + "/events?app_id=codingbootcamp"
 
     axios.get(queryURL).then(
       function(response) {
@@ -57,62 +54,86 @@ function findBand() {
 
 }
 
-function findSong() {
 
-    var song = process.argv.slice(3).join(" ");
+function findSong(song) {
 
-    spotify.search({type: 'track', query: song, limit: 1}, function(err, data) {
-      if (err) {
-        return console.log('Error occured' + err);
-      }
-      
-      for (var i = 0; i < data.tracks.items.length; i++) {
+    var Spotify = require("node-spotify-api");
+    var spotify = new Spotify(keys.spotify);
 
-        var albumName = data.tracks.items[i].album.name
-        var artistsArr = data.tracks.items[i].artists;
+    if (process.argv[2] !== "do-what-it-says" && process.argv[3] == undefined) {
+        spotify.request('https://api.spotify.com/v1/tracks/3DYVWvPh3kGwPasp7yjahc')
+        .then(function(data) {
+          var theSignObj = {
+              artist: data.album.artists[0].name,
+              song: "The Sign",
+              link: data.album.artists[0].external_urls.spotify,
+              album: "Greatest Hits"
+          };
 
-        artistsArr.forEach(function(item) {
+          console.log(theSignObj); 
+           
+        })
+    
+    }
 
-            var artistsName = item.name; 
-            var songURL = item.external_urls.spotify; 
+    else {
+
+      spotify.search({type: 'track', query: song, limit: 1}, function(err, data) {
+        if (err) {
+          return console.log('Error occured' + err);
+        }
+        
+        for (var i = 0; i < data.tracks.items.length; i++) {
+
+          var albumName = data.tracks.items[i].album.name
+          var artistsArr = data.tracks.items[i].artists;
+
+          artistsArr.forEach(function(item) {
+
+              var artistsName = item.name; 
+              var songURL = item.external_urls.spotify; 
+              
+              var songObj = {
+                      artist: artistsName,
+                      song: song,
+                      link: songURL,
+                      album: albumName
+                };
+
+              console.log(songObj)
             
-             var songObj = {
-                    artist: artistsName,
-                    song: song,
-                    link: songURL,
-                    album: albumName
-              };
+          });
+        
+        }
 
-             console.log(songObj)
-          
-        });
-      
-      }
-
-  });
+    });
+  }
 
 }
 
-function findMovie() {
+function findMovie(movie) {
 
+  var axios = require("axios");
   var omddKey = "cf9c461b"
 
   var nodeArgs = process.argv
-  var movieName = ""
 
   for (var i = 3; i < nodeArgs.length; i++) {
 
     if (i > 3 && i < nodeArgs.length) {
-      movieName = movieName + "+" + nodeArgs[i];
+      movie = movie + "+" + nodeArgs[i];
     }
     else {
-      movieName += nodeArgs[i];
-
+      movie += nodeArgs[i];
     }
 
   }
 
-  var omdbURL = "http://www.omdbapi.com/?t=" + movieName + "=&plot=short&apikey=" + omddKey
+  if (process.argv[2] !== "do-what-it-says" && process.argv[3] === undefined) {
+    movie = "Mr+Nobody+"
+  }
+
+  var omdbURL = "http://www.omdbapi.com/?t=" + movie + "=&plot=short&apikey=" + omddKey
 
   axios.get(omdbURL).then(
     function(response) {
@@ -138,6 +159,22 @@ function findMovie() {
     };
 
     console.log(movieObj);
+
+  });
+
+}
+
+function findText() {
+
+  var fs = require("fs");
+
+  fs.readFile("random.txt", "utf8", function(error, data) {
+
+    if (error) {
+      return console.log(error);
+    }
+
+    var dataArr = data.split(",");
 
   });
 
