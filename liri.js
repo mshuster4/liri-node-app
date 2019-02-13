@@ -85,24 +85,27 @@ function findSong(song) {
         
         for (var i = 0; i < data.tracks.items.length; i++) {
 
+          var artistsName = [];
+          var songObj = {};
+          var songURL = ""
           var albumName = data.tracks.items[i].album.name
           var artistsArr = data.tracks.items[i].artists;
 
           artistsArr.forEach(function(item) {
 
-              var artistsName = item.name; 
-              var songURL = item.external_urls.spotify; 
-              
-              var songObj = {
-                      artist: artistsName,
-                      song: song,
-                      link: songURL,
-                      album: albumName
-                };
-
-              console.log(songObj)
-            
+              artistsName.push(item.name); 
+              songURL = item.external_urls.spotify; 
+      
           });
+
+          var songObj = {
+                artists: artistsName,
+                song: song,
+                link: songURL,
+                album: albumName
+            };
+
+          console.log(songObj);
         
         }
 
@@ -176,15 +179,28 @@ function findText() {
       return console.log(error);
     }
 
-    var dataArr = data.split(",");
+    dataArr = data.split(",");
+    
 
     console.log(dataArr);
 
-    findSong(dataArr[0]);
-    findBand(dataArr[1]);
-    findMovie(dataArr[2]);
+    for (var i = 0; i < dataArr.length; i++) {
+     
+      if (dataArr[i] == "spotify-this-song") {
+       findSong(dataArr[i+1]);
+      }
+      else if (dataArr[i] == "movie-this") {
+        findMovie(dataArr[i+1]);
+        
+      }
+      else if (dataArr[i] == "concert-this") {
+       findBand(dataArr[i+1]);
+       
+      }
+        
+    }
 
-  })
+  });
 
 
 }
