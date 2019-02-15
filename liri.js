@@ -3,7 +3,11 @@ require("dotenv").config();
 
 var keys = require("./keys.js");
 
+var fs = require("fs");
+
 var command = process.argv[2]; 
+
+var divider = ("\n-------------------------------------------------------------------------------------------------\n");
 
 if (command === "concert-this") {
   var band = process.argv.slice(3).join(" ")
@@ -21,7 +25,7 @@ else if (command === "do-what-it-says") {
   findText();
 }
 else {
-  console.log("Invalid command.  Try again")
+  console.log("Invalid command.  Try again");
 }
 
 function findBand(band) {
@@ -37,17 +41,22 @@ function findBand(band) {
           for (var i = 0; i < response.data.length; i++) {
 
             var date = moment(response.data[i].datetime).format("MM/DD/YYYY")
+            var infoString = ("**Concert info for " + band + "**\n");
 
-            var venueObj = {
-              name: response.data[i].venue.name,
-              country: response.data[i].venue.country,
-              state: response.data[i].venue.region,
-              city: response.data[i].venue.city,
-              date: date
-            };
+            var bandData = [
+              "Venue Name: " + response.data[i].venue.name,
+              "Venue Country: " + response.data[i].venue.country,
+              "Venue State: " + response.data[i].venue.region,
+              "Venue City: " + response.data[i].venue.city,
+              "Concert Date: " + date
+            ].join("\n");
 
-            console.log(venueObj);                       
+            console.log(infoString);
+            console.log(bandData); 
 
+             fs.appendFile("log.txt", infoString + bandData + divider, function(err) {
+                if (err) throw err;
+              });
           }
     
     });
@@ -63,14 +72,22 @@ function findSong(song) {
     if (process.argv[2] !== "do-what-it-says" && process.argv[3] == undefined) {
         spotify.request('https://api.spotify.com/v1/tracks/3DYVWvPh3kGwPasp7yjahc')
         .then(function(data) {
-          var theSignObj = {
-              artist: data.album.artists[0].name,
-              song: "The Sign",
-              link: data.album.artists[0].external_urls.spotify,
-              album: "Greatest Hits"
-          };
 
-          console.log(theSignObj); 
+          var signString = ("**You saw the sign**\n");
+
+          var theSignArrData = [
+              "Artist Name: " + data.album.artists[0].name,
+              "Song: " + data.name,
+              "Link: " + data.album.artists[0].external_urls.spotify,
+              "Album: " + data.album.name
+          ].join("\n")
+
+          console.log(signString);
+          console.log(theSignArrData); 
+
+          fs.appendFile("log.txt", signString + theSignArrData + divider, function(err) {
+            if (err) throw err;
+          });
            
         })
     
@@ -98,14 +115,21 @@ function findSong(song) {
       
           });
 
-          var songObj = {
-                artists: artistsName,
-                song: song,
-                link: songURL,
-                album: albumName
-            };
+          var songString = ("**Info for " + song +"**\n");
 
-          console.log(songObj);
+          var songArrData = [
+              "Artist(s): " + artistsName.join(", "),
+              "Song: " + song,
+              "Link: " + songURL,
+              "Album: " + albumName
+          ].join("\n");
+
+          console.log(songString);  
+          console.log(songArrData);
+
+          fs.appendFile("log.txt", songString + songArrData + divider, function(err) {
+            if (err) throw err;
+          });
         
         }
 
@@ -149,19 +173,26 @@ function findMovie(movie) {
     var language = response.data.Language;
     var plot = response.data.Plot;
     var actors = response.data.Actors;
-    
-    var movieObj = {
-      title: title,
-      year: year,
-      imdbRating: imdbRating,
-      rottenTomatoesRating: rottenTomRating,
-      country: country,
-      language: language,
-      plot: plot,
-      actors: actors
-    };
 
-    console.log(movieObj);
+    var movieString = ("**Movie info for " + movie + "**\n");
+    
+    var movieArrData = [
+      "Title: " + title,
+      "Year: " + year,
+      "IMDB Rating: " + imdbRating,
+      "Rotten Tomatoes Rating: " + rottenTomRating,
+      "Country: " + country,
+      "Language: " + language,
+      "Plot: " + plot,
+      "Actors: " + actors
+    ].join("\n");
+
+    console.log(movieString);
+    console.log(movieArrData);
+
+    fs.appendFile("log.txt", movieString + movieArrData + divider, function(err) {
+        if (err) throw err;
+      });
 
   });
 
@@ -180,9 +211,6 @@ function findText() {
     }
 
     dataArr = data.split(",");
-    
-
-    console.log(dataArr);
 
     for (var i = 0; i < dataArr.length; i++) {
      
@@ -191,11 +219,9 @@ function findText() {
       }
       else if (dataArr[i] == "movie-this") {
         findMovie(dataArr[i+1]);
-        
       }
       else if (dataArr[i] == "concert-this") {
        findBand(dataArr[i+1]);
-       
       }
         
     }
