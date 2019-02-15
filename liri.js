@@ -94,7 +94,6 @@ function findSong(song) {
     }
 
     else {
-
       spotify.search({type: 'track', query: song, limit: 1}, function(err, data) {
         if (err) {
           return console.log('Error occured' + err);
