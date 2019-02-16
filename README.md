@@ -3,4 +3,4 @@
 ## How it Works
 ![Image of Random Text File](https://raw.githubusercontent.com/mshuster4/liri-node-app/master/screenshots/random-txt.png)
 
-![Gif of Spotify No Arg](https://raw.githubusercontent.com/mshuster4/liri-node-app/master/screenshots/spotify-no-arg.gif)
+![Gif of Spotify No Arg](https://raw.githubusercontent.com/mshuster4/liri-node-app/master/screenshots/spotify-no-args.gif)
