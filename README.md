@@ -2,7 +2,7 @@
 
 ## How it Works
 
-This app allows users to search for and save information about their favorite songs, bands, or movies.
+This app allows users to search for and save information about their favorite songs, bands, and movies.
 
 ## Getting Started 
 * Enter "node liri.js" followed by on of these commands:
