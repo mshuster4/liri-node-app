@@ -38,10 +38,15 @@ function findBand(band) {
     axios.get(queryURL).then(
       function(response) {
 
+        var infoString = ("**CONCERT INFO FOR " + band.toUpperCase() + "**");
+
+        console.log(divider);
+        console.log(infoString);
+        console.log(divider);
+
           for (var i = 0; i < response.data.length; i++) {
 
-            var date = moment(response.data[i].datetime).format("MM/DD/YYYY")
-            var infoString = ("**Concert info for " + band + "**\n");
+            var date = moment(response.data[i].datetime).format("MM/DD/YYYY");
 
             var bandData = [
               "Venue Name: " + response.data[i].venue.name,
@@ -50,9 +55,8 @@ function findBand(band) {
               "Venue City: " + response.data[i].venue.city,
               "Concert Date: " + date
             ].join("\n");
-
-            console.log(infoString);
-            console.log(bandData); 
+            
+            console.log(bandData + "\n\n"); 
 
              fs.appendFile("log.txt", infoString + bandData + divider, function(err) {
                 if (err) throw err;
@@ -73,7 +77,7 @@ function findSong(song) {
         spotify.request('https://api.spotify.com/v1/tracks/3DYVWvPh3kGwPasp7yjahc')
         .then(function(data) {
 
-          var signString = ("**You saw the sign**\n");
+          var signString = ("**YOU SAW THE SIGN**");
 
           var theSignArrData = [
               "Artist Name: " + data.album.artists[0].name,
@@ -82,7 +86,9 @@ function findSong(song) {
               "Album: " + data.album.name
           ].join("\n")
 
+          console.log(divider);
           console.log(signString);
+          console.log(divider);
           console.log(theSignArrData); 
 
           fs.appendFile("log.txt", signString + theSignArrData + divider, function(err) {
@@ -114,7 +120,7 @@ function findSong(song) {
       
           });
 
-          var songString = ("**Info for " + song +"**\n");
+          var songString = ("**SONG INFO FOR " + song.toUpperCase() +"**");
 
           var songArrData = [
               "Artist(s): " + artistsName.join(", "),
@@ -123,7 +129,9 @@ function findSong(song) {
               "Album: " + albumName
           ].join("\n");
 
+          console.log(divider);
           console.log(songString);  
+          console.log(divider);
           console.log(songArrData);
 
           fs.appendFile("log.txt", songString + songArrData + divider, function(err) {
@@ -173,7 +181,7 @@ function findMovie(movie) {
     var plot = response.data.Plot;
     var actors = response.data.Actors;
 
-    var movieString = ("**Movie info for " + movie + "**\n");
+    var movieString = ("**MOVIE INFO FOR " + title.toUpperCase());
     
     var movieArrData = [
       "Title: " + title,
@@ -186,7 +194,9 @@ function findMovie(movie) {
       "Actors: " + actors
     ].join("\n");
 
+    console.log(divider);
     console.log(movieString);
+    console.log(divider);
     console.log(movieArrData);
 
     fs.appendFile("log.txt", movieString + movieArrData + divider, function(err) {

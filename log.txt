@@ -524,3 +524,2534 @@ Song: "I Want It That Way"
 Link: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
 Album: The Hits--Chapter One
 -------------------------------------------------------------------------------------------------
+**Movie info for the+matrix**
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-------------------------------------------------------------------------------------------------
+**Info for hey ya!**
+Artist(s): OutKast
+Song: hey ya!
+Link: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+Album: Speakerboxxx/The Love Below
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: EartH
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/21/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/22/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/23/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/17/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/18/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/19/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Big Weekend 2019
+Venue Country: United Kingdom
+Venue State: 
+Venue City: Middlesbrough
+Concert Date: 05/25/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: RBC Echo Beach
+Venue Country: Canada
+Venue State: 
+Venue City: Toronto
+Concert Date: 06/05/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Farm Bureau Insurance Lawn at White River State Park
+Venue Country: United States
+Venue State: IN
+Venue City: Indianapolis
+Concert Date: 06/07/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: BMO Harris Pavilion
+Venue Country: United States
+Venue State: WI
+Venue City: Milwaukee
+Concert Date: 06/08/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Armory
+Venue Country: United States
+Venue State: MN
+Venue City: Minneapolis
+Concert Date: 06/09/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Sylvee
+Venue Country: United States
+Venue State: WI
+Venue City: Madison
+Concert Date: 06/11/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Fabulous Fox Theatre
+Venue Country: United States
+Venue State: MO
+Venue City: St. Louis
+Concert Date: 06/12/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Jacobs Pavilion at Nautica
+Venue Country: United States
+Venue State: OH
+Venue City: Cleveland
+Concert Date: 06/14/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: PNC Pavilion
+Venue Country: United States
+Venue State: OH
+Venue City: Cincinnati
+Concert Date: 06/15/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Huntington Bank Pavilion at Northerly Island
+Venue Country: United States
+Venue State: IL
+Venue City: Chicago
+Concert Date: 06/16/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Ascend Amphitheater
+Venue Country: United States
+Venue State: TN
+Venue City: Nashville
+Concert Date: 06/18/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Red Hat Amphitheater
+Venue Country: United States
+Venue State: NC
+Venue City: Raleigh
+Concert Date: 06/21/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Charlotte Metro Credit Union Amphitheatre
+Venue Country: United States
+Venue State: NC
+Venue City: Charlotte
+Concert Date: 06/22/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Firefly Music Festival
+Venue Country: United States
+Venue State: DE
+Venue City: Dover
+Concert Date: 06/23/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Trinity College
+Venue Country: Ireland
+Venue State: 
+Venue City: Dublin 2
+Concert Date: 07/01/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/02/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/03/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/04/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/06/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/07/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mad Cool Festival
+Venue Country: Spain
+Venue State: 
+Venue City: Madrid
+Concert Date: 07/11/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: NOS Alive
+Venue Country: Portugal
+Venue State: 
+Venue City: Algés
+Concert Date: 07/12/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/27/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/28/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Criterion
+Venue Country: United States
+Venue State: OK
+Venue City: Oklahoma City
+Concert Date: 08/16/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: White Oak Music Hall
+Venue Country: United States
+Venue State: TX
+Venue City: Houston
+Concert Date: 08/17/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Pavilion at Toyota Music Factory
+Venue Country: United States
+Venue State: TX
+Venue City: Dallas
+Concert Date: 08/18/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/20/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/21/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: James L. Knight Center
+Venue Country: United States
+Venue State: FL
+Venue City: Miami
+Concert Date: 08/24/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: St. Augustine Amphitheatre
+Venue Country: United States
+Venue State: FL
+Venue City: St. Augustine
+Concert Date: 08/25/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Fox Theatre
+Venue Country: United States
+Venue State: GA
+Venue City: Atlanta
+Concert Date: 08/27/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Ted Constant Convocation Center
+Venue Country: United States
+Venue State: VA
+Venue City: Norfolk
+Concert Date: 08/30/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Agganis Arena
+Venue Country: United States
+Venue State: MA
+Venue City: Boston
+Concert Date: 09/03/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mann Center for the Performing Arts
+Venue Country: United States
+Venue State: PA
+Venue City: Philadelphia
+Concert Date: 09/04/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Madison Square Garden
+Venue Country: United States
+Venue State: NY
+Venue City: New York
+Concert Date: 09/06/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: MTELUS
+Venue Country: Canada
+Venue State: 
+Venue City: Montreal
+Concert Date: 09/08/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Festival Lawn at Deer Lake Park
+Venue Country: Canada
+Venue State: 
+Venue City: Vancouver
+Concert Date: 09/25/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: WaMu Theater
+Venue Country: United States
+Venue State: WA
+Venue City: Seattle
+Concert Date: 09/27/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: McMenamins Edgefield
+Venue Country: United States
+Venue State: OR
+Venue City: Portland
+Concert Date: 09/28/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Bill Graham Civic Auditorium
+Venue Country: United States
+Venue State: CA
+Venue City: San Francisco
+Concert Date: 10/01/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hollywood Bowl
+Venue Country: United States
+Venue State: CA
+Venue City: Los Angeles
+Concert Date: 10/02/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: CalCoast Credit Union Open Air Theatre at SDSU
+Venue Country: United States
+Venue State: CA
+Venue City: San Diego
+Concert Date: 10/03/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Complex
+Venue Country: United States
+Venue State: UT
+Venue City: Salt Lake City
+Concert Date: 10/06/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Red Rocks Amphitheatre
+Venue Country: United States
+Venue State: CO
+Venue City: Denver
+Concert Date: 10/08/2019
+-------------------------------------------------------------------------------------------------
+**Movie info for the+matrix**
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-------------------------------------------------------------------------------------------------
+**Info for radio gaga**
+Artist(s): Lady Gaga, Bradley Cooper
+Song: radio gaga
+Link: https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG
+Album: A Star Is Born Soundtrack (Without Dialogue)
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: EartH
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/21/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/22/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/23/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/17/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/18/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/19/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Big Weekend 2019
+Venue Country: United Kingdom
+Venue State: 
+Venue City: Middlesbrough
+Concert Date: 05/25/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: RBC Echo Beach
+Venue Country: Canada
+Venue State: 
+Venue City: Toronto
+Concert Date: 06/05/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Farm Bureau Insurance Lawn at White River State Park
+Venue Country: United States
+Venue State: IN
+Venue City: Indianapolis
+Concert Date: 06/07/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: BMO Harris Pavilion
+Venue Country: United States
+Venue State: WI
+Venue City: Milwaukee
+Concert Date: 06/08/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Armory
+Venue Country: United States
+Venue State: MN
+Venue City: Minneapolis
+Concert Date: 06/09/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Sylvee
+Venue Country: United States
+Venue State: WI
+Venue City: Madison
+Concert Date: 06/11/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Fabulous Fox Theatre
+Venue Country: United States
+Venue State: MO
+Venue City: St. Louis
+Concert Date: 06/12/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Jacobs Pavilion at Nautica
+Venue Country: United States
+Venue State: OH
+Venue City: Cleveland
+Concert Date: 06/14/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: PNC Pavilion
+Venue Country: United States
+Venue State: OH
+Venue City: Cincinnati
+Concert Date: 06/15/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Huntington Bank Pavilion at Northerly Island
+Venue Country: United States
+Venue State: IL
+Venue City: Chicago
+Concert Date: 06/16/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Ascend Amphitheater
+Venue Country: United States
+Venue State: TN
+Venue City: Nashville
+Concert Date: 06/18/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Red Hat Amphitheater
+Venue Country: United States
+Venue State: NC
+Venue City: Raleigh
+Concert Date: 06/21/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Charlotte Metro Credit Union Amphitheatre
+Venue Country: United States
+Venue State: NC
+Venue City: Charlotte
+Concert Date: 06/22/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Firefly Music Festival
+Venue Country: United States
+Venue State: DE
+Venue City: Dover
+Concert Date: 06/23/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Trinity College
+Venue Country: Ireland
+Venue State: 
+Venue City: Dublin 2
+Concert Date: 07/01/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/02/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/03/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/04/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/06/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/07/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mad Cool Festival
+Venue Country: Spain
+Venue State: 
+Venue City: Madrid
+Concert Date: 07/11/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: NOS Alive
+Venue Country: Portugal
+Venue State: 
+Venue City: Algés
+Concert Date: 07/12/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/27/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/28/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Criterion
+Venue Country: United States
+Venue State: OK
+Venue City: Oklahoma City
+Concert Date: 08/16/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: White Oak Music Hall
+Venue Country: United States
+Venue State: TX
+Venue City: Houston
+Concert Date: 08/17/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Pavilion at Toyota Music Factory
+Venue Country: United States
+Venue State: TX
+Venue City: Dallas
+Concert Date: 08/18/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/20/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/21/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: James L. Knight Center
+Venue Country: United States
+Venue State: FL
+Venue City: Miami
+Concert Date: 08/24/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: St. Augustine Amphitheatre
+Venue Country: United States
+Venue State: FL
+Venue City: St. Augustine
+Concert Date: 08/25/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Fox Theatre
+Venue Country: United States
+Venue State: GA
+Venue City: Atlanta
+Concert Date: 08/27/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Ted Constant Convocation Center
+Venue Country: United States
+Venue State: VA
+Venue City: Norfolk
+Concert Date: 08/30/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Agganis Arena
+Venue Country: United States
+Venue State: MA
+Venue City: Boston
+Concert Date: 09/03/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Mann Center for the Performing Arts
+Venue Country: United States
+Venue State: PA
+Venue City: Philadelphia
+Concert Date: 09/04/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Madison Square Garden
+Venue Country: United States
+Venue State: NY
+Venue City: New York
+Concert Date: 09/06/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: MTELUS
+Venue Country: Canada
+Venue State: 
+Venue City: Montreal
+Concert Date: 09/08/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Festival Lawn at Deer Lake Park
+Venue Country: Canada
+Venue State: 
+Venue City: Vancouver
+Concert Date: 09/25/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: WaMu Theater
+Venue Country: United States
+Venue State: WA
+Venue City: Seattle
+Concert Date: 09/27/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: McMenamins Edgefield
+Venue Country: United States
+Venue State: OR
+Venue City: Portland
+Concert Date: 09/28/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Bill Graham Civic Auditorium
+Venue Country: United States
+Venue State: CA
+Venue City: San Francisco
+Concert Date: 10/01/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Hollywood Bowl
+Venue Country: United States
+Venue State: CA
+Venue City: Los Angeles
+Concert Date: 10/02/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: CalCoast Credit Union Open Air Theatre at SDSU
+Venue Country: United States
+Venue State: CA
+Venue City: San Diego
+Concert Date: 10/03/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: The Complex
+Venue Country: United States
+Venue State: UT
+Venue City: Salt Lake City
+Concert Date: 10/06/2019
+-------------------------------------------------------------------------------------------------
+**Concert info for vampire weekend**
+Venue Name: Red Rocks Amphitheatre
+Venue Country: United States
+Venue State: CO
+Venue City: Denver
+Concert Date: 10/08/2019
+-------------------------------------------------------------------------------------------------
+**Movie info for the+matrix**
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: EartH
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/21/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/22/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/23/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/17/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/18/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/19/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Big Weekend 2019
+Venue Country: United Kingdom
+Venue State: 
+Venue City: Middlesbrough
+Concert Date: 05/25/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: RBC Echo Beach
+Venue Country: Canada
+Venue State: 
+Venue City: Toronto
+Concert Date: 06/05/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Farm Bureau Insurance Lawn at White River State Park
+Venue Country: United States
+Venue State: IN
+Venue City: Indianapolis
+Concert Date: 06/07/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: BMO Harris Pavilion
+Venue Country: United States
+Venue State: WI
+Venue City: Milwaukee
+Concert Date: 06/08/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: The Armory
+Venue Country: United States
+Venue State: MN
+Venue City: Minneapolis
+Concert Date: 06/09/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: The Sylvee
+Venue Country: United States
+Venue State: WI
+Venue City: Madison
+Concert Date: 06/11/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Fabulous Fox Theatre
+Venue Country: United States
+Venue State: MO
+Venue City: St. Louis
+Concert Date: 06/12/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Jacobs Pavilion at Nautica
+Venue Country: United States
+Venue State: OH
+Venue City: Cleveland
+Concert Date: 06/14/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: PNC Pavilion
+Venue Country: United States
+Venue State: OH
+Venue City: Cincinnati
+Concert Date: 06/15/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Huntington Bank Pavilion at Northerly Island
+Venue Country: United States
+Venue State: IL
+Venue City: Chicago
+Concert Date: 06/16/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Ascend Amphitheater
+Venue Country: United States
+Venue State: TN
+Venue City: Nashville
+Concert Date: 06/18/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Red Hat Amphitheater
+Venue Country: United States
+Venue State: NC
+Venue City: Raleigh
+Concert Date: 06/21/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Charlotte Metro Credit Union Amphitheatre
+Venue Country: United States
+Venue State: NC
+Venue City: Charlotte
+Concert Date: 06/22/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Firefly Music Festival
+Venue Country: United States
+Venue State: DE
+Venue City: Dover
+Concert Date: 06/23/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Trinity College
+Venue Country: Ireland
+Venue State: 
+Venue City: Dublin 2
+Concert Date: 07/01/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/02/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/03/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/04/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/06/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/07/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Mad Cool Festival
+Venue Country: Spain
+Venue State: 
+Venue City: Madrid
+Concert Date: 07/11/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: NOS Alive
+Venue Country: Portugal
+Venue State: 
+Venue City: Algés
+Concert Date: 07/12/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/27/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/28/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: The Criterion
+Venue Country: United States
+Venue State: OK
+Venue City: Oklahoma City
+Concert Date: 08/16/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: White Oak Music Hall
+Venue Country: United States
+Venue State: TX
+Venue City: Houston
+Concert Date: 08/17/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: The Pavilion at Toyota Music Factory
+Venue Country: United States
+Venue State: TX
+Venue City: Dallas
+Concert Date: 08/18/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/20/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/21/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: James L. Knight Center
+Venue Country: United States
+Venue State: FL
+Venue City: Miami
+Concert Date: 08/24/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: St. Augustine Amphitheatre
+Venue Country: United States
+Venue State: FL
+Venue City: St. Augustine
+Concert Date: 08/25/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Fox Theatre
+Venue Country: United States
+Venue State: GA
+Venue City: Atlanta
+Concert Date: 08/27/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Ted Constant Convocation Center
+Venue Country: United States
+Venue State: VA
+Venue City: Norfolk
+Concert Date: 08/30/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Agganis Arena
+Venue Country: United States
+Venue State: MA
+Venue City: Boston
+Concert Date: 09/03/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Mann Center for the Performing Arts
+Venue Country: United States
+Venue State: PA
+Venue City: Philadelphia
+Concert Date: 09/04/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Madison Square Garden
+Venue Country: United States
+Venue State: NY
+Venue City: New York
+Concert Date: 09/06/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: MTELUS
+Venue Country: Canada
+Venue State: 
+Venue City: Montreal
+Concert Date: 09/08/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Festival Lawn at Deer Lake Park
+Venue Country: Canada
+Venue State: 
+Venue City: Vancouver
+Concert Date: 09/25/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: WaMu Theater
+Venue Country: United States
+Venue State: WA
+Venue City: Seattle
+Concert Date: 09/27/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: McMenamins Edgefield
+Venue Country: United States
+Venue State: OR
+Venue City: Portland
+Concert Date: 09/28/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Bill Graham Civic Auditorium
+Venue Country: United States
+Venue State: CA
+Venue City: San Francisco
+Concert Date: 10/01/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Hollywood Bowl
+Venue Country: United States
+Venue State: CA
+Venue City: Los Angeles
+Concert Date: 10/02/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: CalCoast Credit Union Open Air Theatre at SDSU
+Venue Country: United States
+Venue State: CA
+Venue City: San Diego
+Concert Date: 10/03/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: The Complex
+Venue Country: United States
+Venue State: UT
+Venue City: Salt Lake City
+Concert Date: 10/06/2019
+-------------------------------------------------------------------------------------------------
+
+
+**Concert info for vampire weekend**
+
+Venue Name: Red Rocks Amphitheatre
+Venue Country: United States
+Venue State: CO
+Venue City: Denver
+Concert Date: 10/08/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: EartH
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/21/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/22/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/23/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/17/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/18/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/19/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Big Weekend 2019
+Venue Country: United Kingdom
+Venue State: 
+Venue City: Middlesbrough
+Concert Date: 05/25/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: RBC Echo Beach
+Venue Country: Canada
+Venue State: 
+Venue City: Toronto
+Concert Date: 06/05/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Farm Bureau Insurance Lawn at White River State Park
+Venue Country: United States
+Venue State: IN
+Venue City: Indianapolis
+Concert Date: 06/07/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: BMO Harris Pavilion
+Venue Country: United States
+Venue State: WI
+Venue City: Milwaukee
+Concert Date: 06/08/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Armory
+Venue Country: United States
+Venue State: MN
+Venue City: Minneapolis
+Concert Date: 06/09/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Sylvee
+Venue Country: United States
+Venue State: WI
+Venue City: Madison
+Concert Date: 06/11/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Fabulous Fox Theatre
+Venue Country: United States
+Venue State: MO
+Venue City: St. Louis
+Concert Date: 06/12/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Jacobs Pavilion at Nautica
+Venue Country: United States
+Venue State: OH
+Venue City: Cleveland
+Concert Date: 06/14/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: PNC Pavilion
+Venue Country: United States
+Venue State: OH
+Venue City: Cincinnati
+Concert Date: 06/15/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Huntington Bank Pavilion at Northerly Island
+Venue Country: United States
+Venue State: IL
+Venue City: Chicago
+Concert Date: 06/16/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Ascend Amphitheater
+Venue Country: United States
+Venue State: TN
+Venue City: Nashville
+Concert Date: 06/18/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Red Hat Amphitheater
+Venue Country: United States
+Venue State: NC
+Venue City: Raleigh
+Concert Date: 06/21/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Charlotte Metro Credit Union Amphitheatre
+Venue Country: United States
+Venue State: NC
+Venue City: Charlotte
+Concert Date: 06/22/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Firefly Music Festival
+Venue Country: United States
+Venue State: DE
+Venue City: Dover
+Concert Date: 06/23/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Trinity College
+Venue Country: Ireland
+Venue State: 
+Venue City: Dublin 2
+Concert Date: 07/01/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/02/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/03/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/04/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/06/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/07/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mad Cool Festival
+Venue Country: Spain
+Venue State: 
+Venue City: Madrid
+Concert Date: 07/11/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: NOS Alive
+Venue Country: Portugal
+Venue State: 
+Venue City: Algés
+Concert Date: 07/12/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/27/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/28/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Criterion
+Venue Country: United States
+Venue State: OK
+Venue City: Oklahoma City
+Concert Date: 08/16/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: White Oak Music Hall
+Venue Country: United States
+Venue State: TX
+Venue City: Houston
+Concert Date: 08/17/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Pavilion at Toyota Music Factory
+Venue Country: United States
+Venue State: TX
+Venue City: Dallas
+Concert Date: 08/18/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/20/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/21/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: James L. Knight Center
+Venue Country: United States
+Venue State: FL
+Venue City: Miami
+Concert Date: 08/24/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: St. Augustine Amphitheatre
+Venue Country: United States
+Venue State: FL
+Venue City: St. Augustine
+Concert Date: 08/25/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Fox Theatre
+Venue Country: United States
+Venue State: GA
+Venue City: Atlanta
+Concert Date: 08/27/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Ted Constant Convocation Center
+Venue Country: United States
+Venue State: VA
+Venue City: Norfolk
+Concert Date: 08/30/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Agganis Arena
+Venue Country: United States
+Venue State: MA
+Venue City: Boston
+Concert Date: 09/03/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mann Center for the Performing Arts
+Venue Country: United States
+Venue State: PA
+Venue City: Philadelphia
+Concert Date: 09/04/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Madison Square Garden
+Venue Country: United States
+Venue State: NY
+Venue City: New York
+Concert Date: 09/06/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: MTELUS
+Venue Country: Canada
+Venue State: 
+Venue City: Montreal
+Concert Date: 09/08/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Festival Lawn at Deer Lake Park
+Venue Country: Canada
+Venue State: 
+Venue City: Vancouver
+Concert Date: 09/25/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: WaMu Theater
+Venue Country: United States
+Venue State: WA
+Venue City: Seattle
+Concert Date: 09/27/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: McMenamins Edgefield
+Venue Country: United States
+Venue State: OR
+Venue City: Portland
+Concert Date: 09/28/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Bill Graham Civic Auditorium
+Venue Country: United States
+Venue State: CA
+Venue City: San Francisco
+Concert Date: 10/01/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hollywood Bowl
+Venue Country: United States
+Venue State: CA
+Venue City: Los Angeles
+Concert Date: 10/02/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: CalCoast Credit Union Open Air Theatre at SDSU
+Venue Country: United States
+Venue State: CA
+Venue City: San Diego
+Concert Date: 10/03/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Complex
+Venue Country: United States
+Venue State: UT
+Venue City: Salt Lake City
+Concert Date: 10/06/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Red Rocks Amphitheatre
+Venue Country: United States
+Venue State: CO
+Venue City: Denver
+Concert Date: 10/08/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: EartH
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/21/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/22/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/23/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/17/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/18/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/19/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Big Weekend 2019
+Venue Country: United Kingdom
+Venue State: 
+Venue City: Middlesbrough
+Concert Date: 05/25/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: RBC Echo Beach
+Venue Country: Canada
+Venue State: 
+Venue City: Toronto
+Concert Date: 06/05/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Farm Bureau Insurance Lawn at White River State Park
+Venue Country: United States
+Venue State: IN
+Venue City: Indianapolis
+Concert Date: 06/07/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: BMO Harris Pavilion
+Venue Country: United States
+Venue State: WI
+Venue City: Milwaukee
+Concert Date: 06/08/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Armory
+Venue Country: United States
+Venue State: MN
+Venue City: Minneapolis
+Concert Date: 06/09/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Sylvee
+Venue Country: United States
+Venue State: WI
+Venue City: Madison
+Concert Date: 06/11/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Fabulous Fox Theatre
+Venue Country: United States
+Venue State: MO
+Venue City: St. Louis
+Concert Date: 06/12/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Jacobs Pavilion at Nautica
+Venue Country: United States
+Venue State: OH
+Venue City: Cleveland
+Concert Date: 06/14/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: PNC Pavilion
+Venue Country: United States
+Venue State: OH
+Venue City: Cincinnati
+Concert Date: 06/15/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Huntington Bank Pavilion at Northerly Island
+Venue Country: United States
+Venue State: IL
+Venue City: Chicago
+Concert Date: 06/16/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Ascend Amphitheater
+Venue Country: United States
+Venue State: TN
+Venue City: Nashville
+Concert Date: 06/18/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Red Hat Amphitheater
+Venue Country: United States
+Venue State: NC
+Venue City: Raleigh
+Concert Date: 06/21/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Charlotte Metro Credit Union Amphitheatre
+Venue Country: United States
+Venue State: NC
+Venue City: Charlotte
+Concert Date: 06/22/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Firefly Music Festival
+Venue Country: United States
+Venue State: DE
+Venue City: Dover
+Concert Date: 06/23/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Trinity College
+Venue Country: Ireland
+Venue State: 
+Venue City: Dublin 2
+Concert Date: 07/01/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/02/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/03/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/04/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/06/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/07/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mad Cool Festival
+Venue Country: Spain
+Venue State: 
+Venue City: Madrid
+Concert Date: 07/11/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: NOS Alive
+Venue Country: Portugal
+Venue State: 
+Venue City: Algés
+Concert Date: 07/12/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/27/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/28/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Criterion
+Venue Country: United States
+Venue State: OK
+Venue City: Oklahoma City
+Concert Date: 08/16/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: White Oak Music Hall
+Venue Country: United States
+Venue State: TX
+Venue City: Houston
+Concert Date: 08/17/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Pavilion at Toyota Music Factory
+Venue Country: United States
+Venue State: TX
+Venue City: Dallas
+Concert Date: 08/18/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/20/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/21/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: James L. Knight Center
+Venue Country: United States
+Venue State: FL
+Venue City: Miami
+Concert Date: 08/24/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: St. Augustine Amphitheatre
+Venue Country: United States
+Venue State: FL
+Venue City: St. Augustine
+Concert Date: 08/25/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Fox Theatre
+Venue Country: United States
+Venue State: GA
+Venue City: Atlanta
+Concert Date: 08/27/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Ted Constant Convocation Center
+Venue Country: United States
+Venue State: VA
+Venue City: Norfolk
+Concert Date: 08/30/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Agganis Arena
+Venue Country: United States
+Venue State: MA
+Venue City: Boston
+Concert Date: 09/03/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Mann Center for the Performing Arts
+Venue Country: United States
+Venue State: PA
+Venue City: Philadelphia
+Concert Date: 09/04/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Madison Square Garden
+Venue Country: United States
+Venue State: NY
+Venue City: New York
+Concert Date: 09/06/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: MTELUS
+Venue Country: Canada
+Venue State: 
+Venue City: Montreal
+Concert Date: 09/08/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Festival Lawn at Deer Lake Park
+Venue Country: Canada
+Venue State: 
+Venue City: Vancouver
+Concert Date: 09/25/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: WaMu Theater
+Venue Country: United States
+Venue State: WA
+Venue City: Seattle
+Concert Date: 09/27/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: McMenamins Edgefield
+Venue Country: United States
+Venue State: OR
+Venue City: Portland
+Concert Date: 09/28/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Bill Graham Civic Auditorium
+Venue Country: United States
+Venue State: CA
+Venue City: San Francisco
+Concert Date: 10/01/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Hollywood Bowl
+Venue Country: United States
+Venue State: CA
+Venue City: Los Angeles
+Concert Date: 10/02/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: CalCoast Credit Union Open Air Theatre at SDSU
+Venue Country: United States
+Venue State: CA
+Venue City: San Diego
+Concert Date: 10/03/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: The Complex
+Venue Country: United States
+Venue State: UT
+Venue City: Salt Lake City
+Concert Date: 10/06/2019
+-------------------------------------------------------------------------------------------------
+
+**CONCERT INFO FOR VAMPIRE WEEKEND**
+Venue Name: Red Rocks Amphitheatre
+Venue Country: United States
+Venue State: CO
+Venue City: Denver
+Concert Date: 10/08/2019
+-------------------------------------------------------------------------------------------------
+
+**INFO FOR ONE TWO STEP**
+Artist(s): Ciara, Missy Elliott
+Song: one two step
+Link: https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk
+Album: Goodies
+-------------------------------------------------------------------------------------------------
+
+**You saw the sign**
+Artist Name: Ace of Base
+Song: The Sign
+Link: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+Album: Greatest Hits
+-------------------------------------------------------------------------------------------------
+
+**You saw the sign**
+Artist Name: Ace of Base
+Song: The Sign
+Link: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+Album: Greatest Hits
+-------------------------------------------------------------------------------------------------
+
+**You saw the sign**
+Artist Name: Ace of Base
+Song: The Sign
+Link: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+Album: Greatest Hits
+-------------------------------------------------------------------------------------------------
+**MOVIE INFO FORTHE MATRIXTitle: The Matrix
+Year: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-------------------------------------------------------------------------------------------------
+**MOVIE INFO FOR THE MATRIXTitle: The Matrix
+Year: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-------------------------------------------------------------------------------------------------
+**SONG INFO FOR HEY YA!**Artist(s): OutKast
+Song: hey ya!
+Link: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+Album: Speakerboxxx/The Love Below
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: EartH
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/21/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/22/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Islington Assembly Hall
+Venue Country: United Kingdom
+Venue State: 
+Venue City: London
+Concert Date: 03/23/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/17/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/18/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Hangout Festival
+Venue Country: United States
+Venue State: AL
+Venue City: Gulf Shores
+Concert Date: 05/19/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Big Weekend 2019
+Venue Country: United Kingdom
+Venue State: 
+Venue City: Middlesbrough
+Concert Date: 05/25/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: RBC Echo Beach
+Venue Country: Canada
+Venue State: 
+Venue City: Toronto
+Concert Date: 06/05/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Farm Bureau Insurance Lawn at White River State Park
+Venue Country: United States
+Venue State: IN
+Venue City: Indianapolis
+Concert Date: 06/07/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: BMO Harris Pavilion
+Venue Country: United States
+Venue State: WI
+Venue City: Milwaukee
+Concert Date: 06/08/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: The Armory
+Venue Country: United States
+Venue State: MN
+Venue City: Minneapolis
+Concert Date: 06/09/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: The Sylvee
+Venue Country: United States
+Venue State: WI
+Venue City: Madison
+Concert Date: 06/11/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Fabulous Fox Theatre
+Venue Country: United States
+Venue State: MO
+Venue City: St. Louis
+Concert Date: 06/12/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Jacobs Pavilion at Nautica
+Venue Country: United States
+Venue State: OH
+Venue City: Cleveland
+Concert Date: 06/14/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: PNC Pavilion
+Venue Country: United States
+Venue State: OH
+Venue City: Cincinnati
+Concert Date: 06/15/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Huntington Bank Pavilion at Northerly Island
+Venue Country: United States
+Venue State: IL
+Venue City: Chicago
+Concert Date: 06/16/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Ascend Amphitheater
+Venue Country: United States
+Venue State: TN
+Venue City: Nashville
+Concert Date: 06/18/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Red Hat Amphitheater
+Venue Country: United States
+Venue State: NC
+Venue City: Raleigh
+Concert Date: 06/21/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Charlotte Metro Credit Union Amphitheatre
+Venue Country: United States
+Venue State: NC
+Venue City: Charlotte
+Concert Date: 06/22/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Firefly Music Festival
+Venue Country: United States
+Venue State: DE
+Venue City: Dover
+Concert Date: 06/23/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Trinity College
+Venue Country: Ireland
+Venue State: 
+Venue City: Dublin 2
+Concert Date: 07/01/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/02/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/03/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/04/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Open'er Festival
+Venue Country: Poland
+Venue State: 
+Venue City: Gdynia
+Concert Date: 07/05/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/06/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Down The Rabbit Hole
+Venue Country: Netherlands
+Venue State: 
+Venue City: Ewijk
+Concert Date: 07/07/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Mad Cool Festival
+Venue Country: Spain
+Venue State: 
+Venue City: Madrid
+Concert Date: 07/11/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: NOS Alive
+Venue Country: Portugal
+Venue State: 
+Venue City: Algés
+Concert Date: 07/12/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/27/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Mo Pop Festival
+Venue Country: United States
+Venue State: MI
+Venue City: Detroit
+Concert Date: 07/28/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: The Criterion
+Venue Country: United States
+Venue State: OK
+Venue City: Oklahoma City
+Concert Date: 08/16/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: White Oak Music Hall
+Venue Country: United States
+Venue State: TX
+Venue City: Houston
+Concert Date: 08/17/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: The Pavilion at Toyota Music Factory
+Venue Country: United States
+Venue State: TX
+Venue City: Dallas
+Concert Date: 08/18/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/20/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: ACL Live
+Venue Country: United States
+Venue State: TX
+Venue City: Austin
+Concert Date: 08/21/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: James L. Knight Center
+Venue Country: United States
+Venue State: FL
+Venue City: Miami
+Concert Date: 08/24/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: St. Augustine Amphitheatre
+Venue Country: United States
+Venue State: FL
+Venue City: St. Augustine
+Concert Date: 08/25/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Fox Theatre
+Venue Country: United States
+Venue State: GA
+Venue City: Atlanta
+Concert Date: 08/27/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Ted Constant Convocation Center
+Venue Country: United States
+Venue State: VA
+Venue City: Norfolk
+Concert Date: 08/30/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Agganis Arena
+Venue Country: United States
+Venue State: MA
+Venue City: Boston
+Concert Date: 09/03/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Mann Center for the Performing Arts
+Venue Country: United States
+Venue State: PA
+Venue City: Philadelphia
+Concert Date: 09/04/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Madison Square Garden
+Venue Country: United States
+Venue State: NY
+Venue City: New York
+Concert Date: 09/06/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: MTELUS
+Venue Country: Canada
+Venue State: 
+Venue City: Montreal
+Concert Date: 09/08/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Festival Lawn at Deer Lake Park
+Venue Country: Canada
+Venue State: 
+Venue City: Vancouver
+Concert Date: 09/25/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: WaMu Theater
+Venue Country: United States
+Venue State: WA
+Venue City: Seattle
+Concert Date: 09/27/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: McMenamins Edgefield
+Venue Country: United States
+Venue State: OR
+Venue City: Portland
+Concert Date: 09/28/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Bill Graham Civic Auditorium
+Venue Country: United States
+Venue State: CA
+Venue City: San Francisco
+Concert Date: 10/01/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Hollywood Bowl
+Venue Country: United States
+Venue State: CA
+Venue City: Los Angeles
+Concert Date: 10/02/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: CalCoast Credit Union Open Air Theatre at SDSU
+Venue Country: United States
+Venue State: CA
+Venue City: San Diego
+Concert Date: 10/03/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: The Complex
+Venue Country: United States
+Venue State: UT
+Venue City: Salt Lake City
+Concert Date: 10/06/2019
+-------------------------------------------------------------------------------------------------
+**CONCERT INFO FOR VAMPIRE WEEKEND**Venue Name: Red Rocks Amphitheatre
+Venue Country: United States
+Venue State: CO
+Venue City: Denver
+Concert Date: 10/08/2019
+-------------------------------------------------------------------------------------------------
